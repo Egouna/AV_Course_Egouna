@@ -14,8 +14,11 @@
 /home/autolab/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/__pycache__/__init__.cpython-310.pyc
 /home/autolab/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages/my_robot_controller
 /home/autolab/ros2_ws/install/my_robot_controller/share/my_robot_controller/package.xml
+/home/autolab/ros2_ws/install/my_robot_controller/share/my_robot_controller/maps/map.pgm
+/home/autolab/ros2_ws/install/my_robot_controller/share/my_robot_controller/maps/map.yaml
 /home/autolab/ros2_ws/install/my_robot_controller/share/my_robot_controller/launch/start_mapping.launch.py
 /home/autolab/ros2_ws/install/my_robot_controller/share/my_robot_controller/launch/my_launch.launch.py
+/home/autolab/ros2_ws/install/my_robot_controller/share/my_robot_controller/launch/run_navigation.launch.py
 /home/autolab/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info/PKG-INFO
 /home/autolab/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info/top_level.txt
 /home/autolab/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info/requires.txt
@@ -26,5 +29,6 @@
 /home/autolab/ros2_ws/install/my_robot_controller/lib/my_robot_controller/controller
 /home/autolab/ros2_ws/install/my_robot_controller/lib/my_robot_controller/draw_circle
 /home/autolab/ros2_ws/install/my_robot_controller/lib/my_robot_controller/mapping
+/home/autolab/ros2_ws/install/my_robot_controller/lib/my_robot_controller/navigation
 /home/autolab/ros2_ws/install/my_robot_controller/lib/my_robot_controller/pose_sub
 /home/autolab/ros2_ws/install/my_robot_controller/lib/my_robot_controller/test_node

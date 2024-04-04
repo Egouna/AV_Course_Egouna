@@ -9,7 +9,10 @@ setup.py
 ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
 ../../build/my_robot_controller/my_robot_controller.egg-info/zip-safe
 launch/my_launch.launch.py
+launch/run_navigation.launch.py
 launch/start_mapping.launch.py
+maps/map.pgm
+maps/map.yaml
 my_robot_controller/__init__.py
 my_robot_controller/draw_circle.py
 my_robot_controller/mapping.py
