@@ -1,4 +1,5 @@
 [console_scripts]
+car_nav = my_robot_controller.av_nav:main
 controller = my_robot_controller.turtle_controller:main
 draw_circle = my_robot_controller.draw_circle:main
 mapping = my_robot_controller.mapping:main
